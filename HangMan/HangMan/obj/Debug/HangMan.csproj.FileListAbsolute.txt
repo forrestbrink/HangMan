@@ -1,0 +1,6 @@
+D:\Seed Paths\Week2 Comp\HangMan\HangMan\HangMan\bin\Debug\HangMan.exe.config
+D:\Seed Paths\Week2 Comp\HangMan\HangMan\HangMan\bin\Debug\HangMan.exe
+D:\Seed Paths\Week2 Comp\HangMan\HangMan\HangMan\bin\Debug\HangMan.pdb
+D:\Seed Paths\Week2 Comp\HangMan\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+D:\Seed Paths\Week2 Comp\HangMan\HangMan\HangMan\obj\Debug\HangMan.exe
+D:\Seed Paths\Week2 Comp\HangMan\HangMan\HangMan\obj\Debug\HangMan.pdb
